@@ -1,0 +1,7 @@
+{
+	"title": "JMod EZ Workers",
+	"type": "gamemode",
+	"tags": ["fun"],
+	"description": "A JMod submod. Hire player-bot workers with gold, feed them nutrients, and put them to work: mining with a pickaxe, auto-crafting at workbenches, hauling resources.",
+	"ignore": ["*.psd", "*.vtf", "*.xcf"]
+}
